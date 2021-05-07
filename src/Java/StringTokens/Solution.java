@@ -1,4 +1,4 @@
-package Java.Anagrams.StringTokens;
+package Java.StringTokens;
 
 import java.util.Scanner;
 
